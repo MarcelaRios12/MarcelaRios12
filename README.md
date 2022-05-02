@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarcelaRios12
 - 👀 I’m interested in finding the best coders out there for the best job opportunities at a proptech startup.
-- 🌱 I’m currently learning Project managment.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Social Psychology.
 - 📫 How to reach me: marcela.rios@flat.mx
 
 <!---
